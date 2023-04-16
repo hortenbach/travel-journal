@@ -4,7 +4,7 @@ export const content = [
       "location": "Austria",
       "googleMapsUrl":"https://www.google.com/maps/place/Gamskogel/@47.5833323,12.2230336,15z/data=!4m14!1m7!3m6!1s0x4776378ac1adc00d:0x7b96e235175d9191!2sBrandkogel!8m2!3d47.5833333!4d12.2333333!16s%2Fg%2F11bxb8s66w!3m5!1s0x4776379a851097f1:0xce0a9245526d0b2c!8m2!3d47.581055!4d12.2340515!16s%2Fg%2F11rh9sxbcf",
       "height": "1449m",
-      "content": "The Kaiser Mountains[2][3][4][5][6] (German: Kaisergebirge, meaning Emperor Mountains) are a mountain range in the Northern Limestone Alps and Eastern Alps. Its main ridges – are the Zahmer Kaiser and south of it the Wilder Kaiser. The mountains are situated in the Austrian province of Tyrol between the town of Kufstein and the town of St. Johann in Tirol.[7] The Kaiser Mountains offer some of the loveliest scenery in all the Northern Limestone Alps.[8]",
+      "content": "The Kaiser Mountains (German: Kaisergebirge, meaning Emperor Mountains) are a mountain range in the Northern Limestone Alps and Eastern Alps. Its main ridges – are the Zahmer Kaiser and south of it the Wilder Kaiser. The mountains are situated in the Austrian province of Tyrol between the town of Kufstein and the town of St. Johann in Tirol.[7] The Kaiser Mountains offer some of the loveliest scenery in all the Northern Limestone Alps.[8]",
       "image":"https://www.bergtour-online.de/wp-content/uploads/2014/04/Gamskogel-37-pmsxx.jpg"
     },
     {
